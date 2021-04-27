@@ -8,22 +8,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-    color: #7f0000;
+    color: #4046ce;
 }
 
 a:hover, a:visited {
-    color: #6b0000;
+    color: #404670;
 }
 
 .btn, a.btn, a.btn:visited {
     font-family: 'Cinzel', serif;
-    background-color: #7f0000;
+    background-color: #4046ce;
     border: 1px solid #141301;
     color: white;
 }
 
 .btn:hover {
-    background-color: #6b0000;
+    background-color: #404670;
     color: white;
 }
 
@@ -44,7 +44,7 @@ a:hover, a:visited {
 .btn-primary:focus, .btn-primary:active {
     outline: none !important;
     box-shadow: none !important;
-    background-color: #6b0000 !important;
+    background-color: #404670 !important;
 }
 
 .forum-link {
